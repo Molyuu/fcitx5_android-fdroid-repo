@@ -28,7 +28,7 @@ jobs:
       - name: fdroid Update
         run: |
           cd fdroid
-          sudo docker run --rm -v $(pwd):/repo registry.gitlab.com/fdroid/docker-executable-fdroidserver:master update
+          sudo docker run --rm -v $(pwd):/repo registry.gitlab.com/fdroid/docker-executable-fdroidserver:master update -c
           cd ..
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
