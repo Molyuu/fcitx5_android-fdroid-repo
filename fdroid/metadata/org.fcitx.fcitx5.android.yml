@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: 'Fcitx5-Android'
 Categories:
 - fcitx5_android-fdroid-repo
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/fcitx5-android/fcitx5-android/issues'
 Name: Fcitx5 for Android
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/fcitx5-android/fcitx5-android'
+Summary: 'An attempt to run fcitx5 on Android'
+WebSite: 'https://fcitx5-android.github.io/'
