@@ -50,8 +50,8 @@ sdk_path: /home/molyuu/Android/Sdk
 # The same policy is applied to the archive repo, if there is one.
 # repo_maxage: 0
 
-# repo_url: https://MyFirstFDroidRepo.org/fdroid/repo
-# repo_name: My First F-Droid Repo Demo
+repo_url: https://raw.githubusercontent.com/Molyuu/fcitx5_android-fdroid-repo/main/fdroid/repo
+repo_name: Fcit5-Android Repo
 # repo_description: >-
 #   This is a repository of apps to be used with F-Droid. Applications
 #   in this repository are either official binaries built by the
