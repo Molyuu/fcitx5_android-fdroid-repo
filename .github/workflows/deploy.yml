@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'fdroid/tmp-apks/*.apk'
+  
+  workflow_dispatch:
+
+
 
 jobs:
   linux:
