@@ -1,0 +1,29 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "-c"
+  ],
+  "fdroiddata": {
+    "commitId": "None",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      "config.yml",
+      "keystore.p12",
+      "metadata/org.fcitx.fcitx5.android.yml",
+      "repo/categories.txt",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "repo/org.fcitx.fcitx5.android-0.0.3-0-g9c7e878-arm64-v8a-release.apk",
+      "tmp/apkcache.json"
+    ]
+  },
+  "startTimestamp": 1668807996000,
+  "subcommand": "update"
+}
